@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayankaushalya&label=Profile%20views&color=0e75b6&style=flat" alt="gayankaushalya" /> </p>
 
-- 🔭 I’m currently working on **TechHive EMS**
+- 🔭 I’m currently working on **NeuroNest Mental Health Chatbot**
 
 - 📫 How to reach me **gayankaushalya482@gmail.com**
 
