@@ -16,7 +16,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
+<p align="left">
 
 <!-- Row 1 -->
 <a href="https://www.arduino.cc/" target="_blank">
