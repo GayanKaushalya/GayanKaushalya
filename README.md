@@ -38,7 +38,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 </a>
 
-<br><br>
+<br>
 
 <!-- Row 2 : Backend & Runtime -->
 <a href="https://nodejs.org" target="_blank">
@@ -60,7 +60,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
 </a>
 
-<br><br>
+<br>
 
 <!-- Row 3 : Databases -->
 <a href="https://www.mongodb.com/" target="_blank">
@@ -82,7 +82,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
 </a>
 
-<br><br>
+<br>
 
 <!-- Row 4 : Mobile & Modern Frameworks -->
 <a href="https://flutter.dev" target="_blank">
@@ -104,7 +104,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
 </a>
 
-<br><br>
+<br>
 
 <!-- Row 5 : Systems, Design & IoT -->
 <a href="https://www.cprogramming.com/" target="_blank">
