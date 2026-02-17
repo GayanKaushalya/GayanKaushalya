@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gayan Kaushalya</h1>
-<h3 align="center">Full-Stack Developer | Mobile App Developer | IoT Enthusiast</h3>
+<h2 align="center">Full-Stack Developer | Mobile App Developer | IoT Enthusiast</h2>
 
 <p align="center">
 🚀 Building scalable web applications <br>
