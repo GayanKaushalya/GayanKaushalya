@@ -1,18 +1,18 @@
-<!-- Animated Typing + Waving Hand -->
-<h1 align="center">
-  Hi 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-  I'm Gayan Kaushalya
-</h1>
-
+<!-- PREMIUM ANIMATED HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;Mobile+App+Developer;IoT+Enthusiast;AI+Explorer;Building+Scalable+Solutions" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0f2027,50:203a43,100:2c5364&text=Gayan%20Kaushalya&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Mobile%20App%20Developer%20%7C%20IoT%20Enthusiast&descAlignY=55&descSize=20" />
 </p>
 
-<!-- Banner Image -->
+<!-- Animated Typing Tagline -->
 <p align="center">
-  <img src="banner.jpg" alt="Banner" height="500" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Web+Applications;Developing+Cross-Platform+Mobile+Apps;Exploring+AI+%26+Intelligent+Systems;Turning+Ideas+Into+Production+Solutions" />
 </p>
+
+<!-- Divider Line -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient" width="90%"/>
+</p>
+
 
 ---
 
