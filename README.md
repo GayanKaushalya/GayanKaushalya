@@ -1,6 +1,6 @@
 <!-- PREMIUM ANIMATED HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0f2027,50:203a43,100:2c5364&text=Gayan%20Kaushalya&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Mobile%20App%20Developer%20%7C%20IoT%20Enthusiast&descAlignY=55&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0f2027,50:203a43,100:2c5364&text=Gayan%20Kaushalya&fontSize=45&fontColor=FFFF00&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Mobile%20App%20Developer%20%7C%20IoT%20Enthusiast&descAlignY=55&descSize=20" />
 </p>
 
 <!-- Animated Typing Tagline -->
