@@ -5,7 +5,7 @@
 
 <!-- Animated Typing Tagline -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Web+Applications;Developing+Cross-Platform+Mobile+Apps;Exploring+AI+%26+Intelligent+Systems;Turning+Ideas+Into+Production+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=FFFF00&center=true&vCenter=true&width=900&lines=Building+Scalable+Web+Applications;Developing+Cross-Platform+Mobile+Apps;Exploring+AI+%26+Intelligent+Systems;Turning+Ideas+Into+Production+Solutions" />
 </p>
 
 <!-- Divider Line -->
