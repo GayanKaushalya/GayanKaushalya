@@ -10,7 +10,7 @@
 
 <!-- Divider Line -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient" width="90%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient" width="1000%"/>
 </p>
 
 
