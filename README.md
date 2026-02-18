@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="banner.jpg" alt="Banner" width="100%" />
+  <img src="banner.jpg" alt="Banner" height="200" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Gayan Kaushalya</h1>
