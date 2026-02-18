@@ -11,7 +11,7 @@
 
 <!-- Divider Line -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient" width="200%"/>
 </p>
 
 
