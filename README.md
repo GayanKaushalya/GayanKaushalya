@@ -1,13 +1,18 @@
+<!-- Animated Typing + Waving Hand -->
+<h1 align="center">
+  Hi 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+  I'm Gayan Kaushalya
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;Mobile+App+Developer;IoT+Enthusiast;AI+Explorer;Building+Scalable+Solutions" />
+</p>
+
 <!-- Banner Image -->
 <p align="center">
   <img src="banner.jpg" alt="Banner" height="500" width="100%" />
 </p>
-
-<h1 align="center">Hi 👋, I'm Gayan Kaushalya</h1>
-
-<h3 align="center">
-Full-Stack Developer | Mobile App Developer | IoT Enthusiast
-</h3>
 
 ---
 
@@ -44,14 +49,16 @@ Full-Stack Developer | Mobile App Developer | IoT Enthusiast
 <a href="https://www.linkedin.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
 </a>
+
 <a href="https://github.com/gayankaushalya" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35"/>
 </a>
+
 <a href="https://facebook.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="35"/>
 </a>
-</p>
 
+</p>
 
 ---
 
@@ -106,21 +113,20 @@ Full-Stack Developer | Mobile App Developer | IoT Enthusiast
 
 </table>
 
-
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GayanKaushalya&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GayanKaushalya&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GayanKaushalya&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GayanKaushalya&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayanKaushalya&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayanKaushalya&layout=compact&theme=radical" />
 </p>
 
 ---
